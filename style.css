@@ -99,6 +99,16 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 }
+.cardCadastro{
+    background-color: #E5E5E5;
+    color: #E60054;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
 
 form{
 
